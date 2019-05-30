@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour {
     [SerializeField]
     private float speed = 3f;
     [SerializeField]
-    private float lookSensitivity = 3f;
+    public float lookSensitivity = 3f;
 
     [SerializeField]
     private float thrusterForce = 1000f;
