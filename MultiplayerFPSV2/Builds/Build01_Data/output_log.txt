@@ -1,46 +1,49 @@
-Mono path[0] = 'C:/Users/Justin-KEEP_OFF/Desktop/Unity/Games/MultiplayerFPSV2/Builds/Build01_Data/Managed'
-Mono config path = 'C:/Users/Justin-KEEP_OFF/Desktop/Unity/Games/MultiplayerFPSV2/Builds/Build01_Data/Mono/etc'
-PlayerConnection initialized from C:/Users/Justin-KEEP_OFF/Desktop/Unity/Games/MultiplayerFPSV2/Builds/Build01_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55007
-Multi-casting "[IP] 172.20.10.6 [Port] 55007 [Flags] 2 [Guid] 663470934 [EditorId] 2631053116 [Version] 1048832 [Id] WindowsPlayer(Justin) [Debug] 0" to [225.0.0.222:54997]...
-Started listening to [0.0.0.0:55007]
-PlayerConnection already initialized - listening to [0.0.0.0:55007]
-Player data archive not found at `C:/Users/Justin-KEEP_OFF/Desktop/Unity/Games/MultiplayerFPSV2/Builds/Build01_Data/data.unity3d`, using local filesystem
+Mono path[0] = 'C:/Users/7522634/Documents/GitHub/MultiplayerFPS/MultiplayerFPSV2/Builds/Build01_Data/Managed'
+Mono config path = 'C:/Users/7522634/Documents/GitHub/MultiplayerFPS/MultiplayerFPSV2/Builds/Build01_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/7522634/Documents/GitHub/MultiplayerFPS/MultiplayerFPSV2/Builds/Build01_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55153
+Multi-casting "[IP] 151.159.105.228 [Port] 55153 [Flags] 2 [Guid] 2277935049 [EditorId] 2631053116 [Version] 1048832 [Id] WindowsPlayer(T-SMD1032133) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55153]
+PlayerConnection already initialized - listening to [0.0.0.0:55153]
+Player data archive not found at `C:/Users/7522634/Documents/GitHub/MultiplayerFPS/MultiplayerFPSV2/Builds/Build01_Data/data.unity3d`, using local filesystem
 Initialize engine version: 2017.1.0f3 (472613c02cf7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
     Vendor:   Intel
-    VRAM:     1136 MB
-    Driver:   20.19.15.4531
+    VRAM:     2111 MB
+    Driver:   25.20.100.6374
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\DatabaseControl.dll (this message is harmless)
-Loading C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\DatabaseControl.dll into Unity Child Domain
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Builds\Build01_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.076 seconds
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\DatabaseControl.dll into Unity Child Domain
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\7522634\Documents\GitHub\MultiplayerFPS\MultiplayerFPSV2\Builds\Build01_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.517 seconds
 <RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.805130 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 45cc -> priority: 1 
-  Thread -> id: 3d04 -> priority: 1 
+UnloadTime: 7.240500 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: ca8 -> priority: 1 
+  Thread -> id: 245c -> priority: 1 
+  Thread -> id: 2dc0 -> priority: 1 
+  Thread -> id: 1060 -> priority: 1 
 The referenced script on this Behaviour (Game Object 'Particles') is missing!
  
 (Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviour.cpp Line: 1758)
@@ -50,12 +53,12 @@ The referenced script on this Behaviour (Game Object 'Particles') is missing!
 (Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviour.cpp Line: 1758)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.010404 ms
-System memory in use before: 21.3 MB.
+UnloadTime: 4.090900 ms
+System memory in use before: 21.4 MB.
 System memory in use after: 21.3 MB.
 
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 805.
-Total: 1.566564 ms (FindLiveObjects: 0.086431 ms CreateObjectMapping: 0.078328 ms MarkObjects: 1.351566 ms  DeleteObjects: 0.046996 ms)
+Total: 0.892900 ms (FindLiveObjects: 0.074000 ms CreateObjectMapping: 0.050500 ms MarkObjects: 0.733400 ms  DeleteObjects: 0.033200 ms)
 
 MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
 UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
@@ -92,256 +95,21 @@ UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity
 UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
  
 (Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 152)
-
-MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:CreateMatch(CreateMatchRequest, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:152)
-UnityEngine.Networking.Match.NetworkMatch:CreateMatch(String, UInt32, Boolean, String, String, String, Int32, Int32, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:139)
-HostGame:CreateRoom() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\HostGame.cs:32)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 152)
-
-Local Connection already exists
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogError(Object)
-UnityEngine.Networking.NetworkServer:AddLocalClient(LocalClient) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServer.cs:310)
-UnityEngine.Networking.LocalClient:InternalConnectLocalServer(Boolean) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\LocalClient.cs:54)
-UnityEngine.Networking.ClientScene:ConnectLocalServer() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\ClientScene.cs:314)
-UnityEngine.Networking.NetworkManager:ConnectLocalClient() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:562)
-UnityEngine.Networking.NetworkManager:StartHost(MatchInfo) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:539)
-UnityEngine.Networking.NetworkManager:OnMatchCreate(Boolean, String, MatchInfo) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:1272)
-UnityEngine.Networking.Match.NetworkMatch:OnMatchCreate(CreateMatchResponse, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:181)
-UnityEngine.Networking.Match.<ProcessMatchResponse>c__Iterator0`2:MoveNext() (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:438)
-UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
- 
-(Filename: C:/buildslave/unity/build/Extensions/Networking/Runtime/NetworkServer.cs Line: 310)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.486655 ms
-System memory in use before: 53.4 MB.
-System memory in use after: 53.3 MB.
+UnloadTime: 10.567900 ms
+System memory in use before: 51.5 MB.
+System memory in use after: 51.4 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4819.
-Total: 8.535073 ms (FindLiveObjects: 0.869172 ms CreateObjectMapping: 0.330058 ms MarkObjects: 3.013745 ms  DeleteObjects: 4.319395 ms)
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4966.
+Total: 2.703600 ms (FindLiveObjects: 0.302100 ms CreateObjectMapping: 0.096200 ms MarkObjects: 1.174400 ms  DeleteObjects: 1.130300 ms)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.612421 ms
-System memory in use before: 54.5 MB.
-System memory in use after: 54.3 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4978.
-Total: 14.854809 ms (FindLiveObjects: 0.659037 ms CreateObjectMapping: 0.361390 ms MarkObjects: 3.205514 ms  DeleteObjects: 10.627246 ms)
-
-Log: connection {1} has been disconnected by timeout; address {::ffff:34.200.68.238:9999} time {291954}, last rec time {289944} rtt {425} timeout {2000}
-ServerDisconnected due to error: Timeout
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:LogError(Object)
-UnityEngine.Networking.NetworkManager:OnServerDisconnect(NetworkConnection) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:1008)
-UnityEngine.Networking.NetworkManager:OnServerDisconnectInternal(NetworkMessage) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:856)
-UnityEngine.Networking.NetworkConnection:InvokeHandler(Int16, NetworkReader, Int32) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkConnection.cs:220)
-UnityEngine.Networking.NetworkConnection:InvokeHandlerNoData(Int16) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkConnection.cs:202)
-UnityEngine.Networking.NetworkServer:OnDisconnected(NetworkConnection) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServer.cs:715)
-UnityEngine.Networking.ServerSimpleWrapper:OnDisconnected(NetworkConnection) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServer.cs:1862)
-UnityEngine.Networking.NetworkServerSimple:HandleDisconnect(Int32, Byte) (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServerSimple.cs:364)
-UnityEngine.Networking.NetworkServerSimple:Update() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServerSimple.cs:253)
-UnityEngine.Networking.NetworkServer:InternalUpdate() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServer.cs:691)
-UnityEngine.Networking.NetworkServer:Update() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkServer.cs:642)
-UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkIdentity.cs:1090)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal (System.Collections.IEnumerator)
+  at UnityEngine.MonoBehaviour.StartCoroutine (IEnumerator routine) [0x00003] in C:\buildslave\unity\build\artifacts\generated\common\runtime\MonoBehaviourBindings.gen.cs:62 
+  at UserAccountManager.GetData (.OnDataReceivedCallBack onDataReceived) [0x0000c] in C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\UserAccountManager.cs:92 
+  at PlayerScore.SyncNow () [0x0001d] in C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\PlayerScore.cs:38 
+  at PlayerScore.OnDestroy () [0x00013] in C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\PlayerScore.cs:21 
  
-(Filename: C:/buildslave/unity/build/Extensions/Networking/Runtime/NetworkManager.cs Line: 1008)
-
-MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:DropConnection(DropConnectionRequest, BasicResponseDelegate) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:282)
-UnityEngine.Networking.Match.NetworkMatch:DropConnection(NetworkID, NodeID, Int32, BasicResponseDelegate) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:269)
-PauseMenu:LeaveRoom() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\PauseMenu.cs:20)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 282)
-
-MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:DropConnection(DropConnectionRequest, BasicResponseDelegate) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:282)
-UnityEngine.Networking.Match.NetworkMatch:DropConnection(NetworkID, NodeID, Int32, BasicResponseDelegate) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:269)
-UnityEngine.Networking.NetworkManager:StopMatchMaker() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:1190)
-UnityEngine.Networking.NetworkManager:StopServer() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:605)
-UnityEngine.Networking.NetworkManager:StopHost() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:581)
-PauseMenu:LeaveRoom() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\PauseMenu.cs:21)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 282)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.349206 ms
-System memory in use before: 49.6 MB.
-System memory in use after: 39.3 MB.
-
-Unloading 164 unused Assets to reduce memory usage. Loaded Objects now: 864.
-Total: 4.916310 ms (FindLiveObjects: 0.091292 ms CreateObjectMapping: 0.057800 ms MarkObjects: 1.092813 ms  DeleteObjects: 3.672242 ms)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(ListMatchRequest, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:327)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(Int32, Int32, String, Boolean, Int32, Int32, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:314)
-JoinGame:RefreshRoomList() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\JoinGame.cs:43)
-JoinGame:Start() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\JoinGame.cs:31)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 327)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(ListMatchRequest, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:327)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(Int32, Int32, String, Boolean, Int32, Int32, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:314)
-JoinGame:RefreshRoomList() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\JoinGame.cs:43)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 327)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(ListMatchRequest, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:327)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(Int32, Int32, String, Boolean, Int32, Int32, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:314)
-JoinGame:RefreshRoomList() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\JoinGame.cs:43)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 327)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(ListMatchRequest, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:327)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(Int32, Int32, String, Boolean, Int32, Int32, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:314)
-JoinGame:RefreshRoomList() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\JoinGame.cs:43)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 327)
-
-MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
-UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
-UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
-UnityEngine.Logger:Log(LogType, Object)
-UnityEngine.Debug:Log(Object)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(ListMatchRequest, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:327)
-UnityEngine.Networking.Match.NetworkMatch:ListMatches(Int32, Int32, String, Boolean, Int32, Int32, DataResponseDelegate`1) (at C:\buildslave\unity\build\Runtime\Networking\Managed\MatchMakingClient.cs:314)
-JoinGame:RefreshRoomList() (at C:\Users\Justin-KEEP_OFF\Desktop\Unity\Games\MultiplayerFPSV2\Assets\Scripts\JoinGame.cs:43)
-UnityEngine.Events.InvokableCall:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:154)
-UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
-UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
-UnityEngine.Events.UnityEvent:Invoke() (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_0.cs:52)
-UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:36)
-UnityEngine.UI.Button:OnPointerClick(PointerEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:45)
-UnityEngine.EventSystems.ExecuteEvents:Execute(IPointerClickHandler, BaseEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:50)
-UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\ExecuteEvents.cs:261)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMousePress(MouseButtonEventData) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:554)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent(Int32) (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:453)
-UnityEngine.EventSystems.StandaloneInputModule:ProcessMouseEvent() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:433)
-UnityEngine.EventSystems.StandaloneInputModule:Process() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\InputModules\StandaloneInputModule.cs:212)
-UnityEngine.EventSystems.EventSystem:Update() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\EventSystem\EventSystem.cs:285)
- 
-(Filename: C:/buildslave/unity/build/Runtime/Networking/Managed/MatchMakingClient.cs Line: 327)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.137649 ms
-System memory in use before: 32.4 MB.
-System memory in use after: 32.3 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 849.
-Total: 1.594654 ms (FindLiveObjects: 0.063202 ms CreateObjectMapping: 0.048077 ms MarkObjects: 1.065803 ms  DeleteObjects: 0.417030 ms)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/MonoBehaviourBindings.gen.cs Line: 62)
 
